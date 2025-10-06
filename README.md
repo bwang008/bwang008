@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm a <strong>Machine Learning Engineer</strong> based in El Monte, CA, with a unique background spanning a decade in power systems engineering. My professional journey began with building and maintaining the critical network simulation models that ensure grid stability for major utilities.
+I'm a <strong>Machine Learning Engineer</strong> based in Los Angeles, CA, with a unique background spanning a decade in power systems engineering. My professional journey began with building and maintaining the critical network simulation models that ensure grid stability for major utilities.
 <br><br>
 This deep experience with complex, real-world systems inspired me to pursue a <b>Master's in Computer Science from Georgia Tech</b> with a specialization in <b>Machine Learning</b>. I am passionate about applying my advanced ML skills to solve high-stakes problems in the tech and finance sectors, particularly in areas like energy trading, predictive modeling, and building intelligent automation pipelines.
 </p>
