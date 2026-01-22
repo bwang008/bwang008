@@ -70,10 +70,12 @@ My primary skillset is centered around <strong>Python</strong> for machine learn
 <i>While much of my recent academic and professional work resides in private repositories, below is a summary of key projects and experience.</i>
 </p>
 
-#### 🔹 Supervised Learning Model Analysis (SL1)
-- Conducted an in-depth comparative analysis of multiple supervised learning models, including Decision Trees, Support Vector Machines (SVMs), and Neural Networks.
-- The project involved **generating models**, training them on two distinct datasets, **collecting** a comprehensive set of performance **metrics** (e.g., accuracy, precision, recall, training time), and **creating graphs and figures** to visualize the results.
-- Culminated in a detailed **written report** analyzing the strengths, weaknesses, and computational trade-offs of each algorithm.
+#### 🔹 LGBM Crude Oil Volatility Predictor
+- Built a data processing pipeline to take 15 years of raw OHLCV data and reconstructed features out of it to predict price breakouts of 8% or more
+- Used LightGBM as the backend, created a genetic algorithm to use for feature selection after generating over 100 different technical indicators to determine which feature combinations have highest information gain and feature importance
+- Built a market simulator to handle futures price expiration and hand off between months to train effectively on back-adjusted futures data
+- Edge over market is over 15% greater than randomized guessing with a heavily class skewed model
+- Used data downsampling to deal with overwhelming class majority of the dataset being 'hold' or 'nothing' because of the nature of searching for black swan events. 
 
 #### 🔹 Randomized Optimization for Combinatorial Problems (OL2)
 - Applied randomized optimization algorithms like Simulated Annealing and Genetic Algorithms to find high-quality solutions for computationally-intensive problems.
