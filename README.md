@@ -8,4 +8,4 @@ Profitable automated trader. I will share the code if you want to collab.
 
 ADMS Substation Builder - A utility/toolkit to generate single line diagram equivalents of a network model to run power flow to bypass the need for manual creation and quickly build, maintain, and debug a full graph model of distribution B-bank substations. Completely removes the human in the loop for a majority of the workflow when it comes to network modeling power systems.
 
-A few other areas I've dabbled in as well are load forecasting, load schedules, wildfire prediction, and phase estimation. 
+Other areas I have also worked in include: load forecasting, load scheduling and simulation, wildfire prediction, process automation, anomoly/bad measurement detection, and state estimation (distribution lateral phase estimation).
