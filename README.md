@@ -1,4 +1,4 @@
-Hello, I am an electrical engineer with a background in ML, I like to work on fun projects and have fully embraced vibe (slop) coding as the future. 
+Hello, I am an electrical engineer with a master's in machine learning, I like to work on fun projects and have fully embraced vibe (slop) coding as the future. 
 
 Few of the things I've done on my spare time:
 
